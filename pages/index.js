@@ -2,7 +2,7 @@
 
 // React convention for components (first letter capitalized)
 function Home() {
-    return <div><h1>Index</h1><h3>Hello World! <br /> Teste</h3></div>
+    return <div><h1>Index</h1><h3>Hello World! <br /> Test - running in Private and in Public</h3></div>
 
 }
 
